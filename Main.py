@@ -98,7 +98,7 @@ inp = st.slider('No of Recommender Products', 0, 40, 5)
 
 
 if st.button('Similar products'):
-    value = find('Cadbury Perk - Chocolate Bar',5 )
+    value = find(song,5 )
     st.dataframe(value)
     st.button("Reset", type="primary")
 else:
