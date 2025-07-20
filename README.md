@@ -1,4 +1,4 @@
-```markdown
+
 # BigBasket Product Recommendation System
 
 A content-based recommendation system built for BigBasket products using machine learning techniques to suggest similar items based on product features and categories.
